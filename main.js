@@ -1,0 +1,10 @@
+const add = require("./add");
+const divide = require("./divide");
+const multiply  = require("./multiply");
+const subtract = require("./subtract");
+var a = 60;
+var b = 20;
+add(a,b);
+multiply(a,b);
+subtract(a,b);
+divide(a,b);
